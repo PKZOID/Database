@@ -1,6 +1,5 @@
 import time
 import urllib.request
-
 class account_gen:
     def account():
         u = input("1:Netflix 2:Grammarly 3:DisneyPlus 4:Spotify\n")
@@ -36,3 +35,6 @@ class account_gen:
             print("Try Agin")
 
 
+user = input("Enter user name: ")
+print("Uplod Your username Please Wait....")
+account_gen.account
