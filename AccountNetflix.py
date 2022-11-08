@@ -37,4 +37,5 @@ class account_gen:
 
 user = input("Enter user name: ")
 print("Uplod Your username Please Wait....")
-account_gen.account
+
+account_gen.account()
